@@ -39,10 +39,6 @@ L'API `https://jsonplaceholder.typicode.com/users` est utilisée pour récupére
 4. **Requête DELETE** :
    - Supprimer une ressource et vérifier la suppression.
 
-### 📂 Livrables :
-✅ Notebook documentant les étapes et les résultats.  
-✅ Fichier CSV contenant les données récupérées.
-
 ---
 
 ## 📊 Partie 2 : Analyse descriptive des données
@@ -66,8 +62,3 @@ L'API `https://api.covidtracking.com/v1/us/daily.json` est utilisée pour récup
 
 4. **Visualisation des données** :
    - Création d’histogrammes et de graphiques en barres avec `matplotlib` et `seaborn`.
-
-### 📂 Livrables :
-✅ Fichier CSV des données collectées.  
-✅ Notebook avec analyse et visualisations.
-
