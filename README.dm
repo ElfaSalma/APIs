@@ -45,7 +45,7 @@ L'API `https://jsonplaceholder.typicode.com/users` est utilisée pour récupére
 **Objectif :** Explorer et analyser un jeu de données collecté via une API REST.
 
 ### 🔹 API utilisée : COVID Tracking Project
-L'API `https://api.covidtracking.com/v1/us/daily.json` est utilisée pour récupérer des données sur l'évolution de la pandémie aux États-Unis.
+L'API `https://api.covidtracking.com/v1/us/daily.json` est utilisée pour récupérer des données sur l'évolution de la pandémie en France.
 
 ### 🔹 Étapes :
 1. **Récupération des données** :
